@@ -23,7 +23,9 @@ Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 Para ejecutar este flow, es necesario lo siguiente.
 1. Arrancar NodeRed con el comando `node-red`.
 2. Importar el flow del repositorio.
+
 ![](https://github.com/DiegoJm10/Flow-3/blob/main/Captura%20desde%202022-09-19%2010-47-03.png?raw=true)
+
 3. Hacer clic en el boton Deploy.
 
 ### Instrucciones de operación:
